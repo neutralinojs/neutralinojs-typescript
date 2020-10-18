@@ -10,10 +10,10 @@ Install [neu-cli](https://neutralino.js.org/docs/#/tools/cli)
 $ npm i -g @neutralinojs/neu
 ```
 
-Create Neutralino app with Javascript template
+Create Neutralino app with Typescript template
 
 ```bash
-$ neu create myapp --template js
+$ neu create myapp --template ts
 $ cd myapp
 ```
 
